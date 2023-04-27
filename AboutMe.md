@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iankitpandit9
 - 👀 I’m interested in Theoretical High Energy Physics
-- 🌱 I’m currently learning Neutrino Mass Modeling 
+- 🌱 I’m currently learning  neutrino mass and mixing using modular symmetry. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
